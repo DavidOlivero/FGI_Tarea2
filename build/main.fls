@@ -97,9 +97,9 @@ INPUT .\content\front-page\frontPage.tex
 INPUT .\content\front-page\frontPage.tex
 INPUT content\front-page\frontPage.tex
 OUTPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Fundamentos de gestión integral\Tarea 2\Documento en LaTeX\build\main.xdv
-INPUT .\content\test\test.tex
-INPUT .\content\test\test.tex
-INPUT content\test\test.tex
+INPUT .\content\activity1\activity1.tex
+INPUT .\content\activity1\activity1.tex
+INPUT content\activity1\activity1.tex
 INPUT C:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Fundamentos de gestión integral\Tarea 2\Documento en LaTeX\images\\Encabezado.png
 INPUT C:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Fundamentos de gestión integral\Tarea 2\Documento en LaTeX\images\\Encabezado.png
 INPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Fundamentos de gestión integral\Tarea 2\Documento en LaTeX\build\main.aux

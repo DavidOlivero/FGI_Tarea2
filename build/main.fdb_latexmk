@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1710513973.25055 "build/main.xdv" "build/main.pdf" "build/main" 1710513973.6178 0
-  "build/main.xdv" 1710513973 3092 dcc260d3cf56ec31a9f39063bc60d931 "xelatex"
+["xdvipdfmx"] 1710517962.11685 "build/main.xdv" "build/main.pdf" "build/main" 1710517962.47107 0
+  "build/main.xdv" 1710517961 5560 fff84fb506105a4ec811ab825c07a0c5 "xelatex"
   (generated)
   "build/main.pdf"
   (rewritten before read)
-["xelatex"] 1710513972.05638 "c:/Users/daeno/Documents/Trabajos de la UNAD/Tercer semestre/Fundamentos de gestión integral/Tarea 2/Documento en LaTeX/main.tex" "build/main.xdv" "main" 1710513973.61449 0
+["xelatex"] 1710517960.94461 "c:/Users/daeno/Documents/Trabajos de la UNAD/Tercer semestre/Fundamentos de gestión integral/Tarea 2/Documento en LaTeX/main.tex" "build/main.xdv" "main" 1710517962.46775 0
   "C:/Program Files/MiKTeX/tex/generic/babel/babel.sty" 1707324350 146276 10a40dabec03ce18494af0c3a51bcbdc ""
   "C:/Program Files/MiKTeX/tex/generic/babel/locale/es/babel-es.ini" 1707324351 4345 33a8cc6f0a7c6afcb84895b2c963a4e5 ""
   "C:/Program Files/MiKTeX/tex/generic/babel/locale/es/babel-spanish.tex" 1707324351 336 a1c472f674f6f0c25a2c95ad8c7ad024 ""
@@ -41,15 +41,15 @@
   "C:/Program Files/MiKTeX/tex/latex/xltxtra/xltxtra.sty" 1546510394 5871 8a29af4ad9d707b5280738995d050842 ""
   "C:/Users/daeno/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1710466391 37547368 9bf9fbdbbba96bbd00f79e5940d2649f ""
   "C:/Users/daeno/Documents/Trabajos de la UNAD/Tercer semestre/Fundamentos de gestión integral/Tarea 2/Documento en LaTeX/images//Encabezado.png" 1710438255 79006 8020b0e883a77f4adebf821c84c6ba30 ""
-  "build/main.aux" 1710513973 194 05eaff20a35224c0a0d2a9aceff1100f "xelatex"
-  "c:/Users/daeno/Documents/Trabajos de la UNAD/Tercer semestre/Fundamentos de gestión integral/Tarea 2/Documento en LaTeX/main.tex" 1710513086 252 e040927f31948e1e39ac9a7aae167979 ""
+  "build/main.aux" 1710517961 194 05eaff20a35224c0a0d2a9aceff1100f "xelatex"
+  "c:/Users/daeno/Documents/Trabajos de la UNAD/Tercer semestre/Fundamentos de gestión integral/Tarea 2/Documento en LaTeX/main.tex" 1710516990 262 e6e2da10d0538b64fa154d26cc47089d ""
   "config/constants.tex" 1710462321 153 227bb297b66fe625063396129bd2b682 ""
   "config/header.tex" 1710513971 235 1734a93b0bff06b946ebbcd844c1f197 ""
-  "config/imports.tex" 1710466202 168 9302758aca165e4c175775cffccac9f5 ""
-  "config/styles.tex" 1710510984 201 1f80703c6df92acd95dd084b7ee3edc2 ""
-  "content/front-page/frontPage.tex" 1710513859 558 646da6b655e3fc0a10a65dbc6204eade ""
-  "content/test/test.tex" 1710465553 67 c5dcfae44898065625989ad7fb45b4e3 ""
-  "main.tex" 1710513086 252 e040927f31948e1e39ac9a7aae167979 ""
+  "config/imports.tex" 1710517411 168 9302758aca165e4c175775cffccac9f5 ""
+  "config/styles.tex" 1710517960 219 6b3169f0bd2bb89adcb37794e3da0088 ""
+  "content/activity1/activity1.tex" 1710517932 345 4a0dc5357ffa7eda82e27afcf7db38ff ""
+  "content/front-page/frontPage.tex" 1710517597 536 fa0798d31422beff42254a5876743041 ""
+  "main.tex" 1710516990 262 e6e2da10d0538b64fa154d26cc47089d ""
   (generated)
   "build/main.aux"
   "build/main.log"
