@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.3.14)  15 MAR 2024 17:55
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.3.14)  15 MAR 2024 18:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -451,7 +451,7 @@ Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
  (C:\Program Files\MiKTeX\tex/latex/csquotes\csquotes.cfg
 File: csquotes.cfg 
-)) (C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty
+))) (C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
  (C:\Program Files\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
@@ -482,18 +482,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
  (C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
 )
-
-C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty:4062: Package keyval Error: colorliks undefined.
-
-See the keyval package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4062 \ProcessKeyvalOptions{Hyp}
-                                 
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+Package hyperref Info: Option `colorlinks' set `true' on input line 4062.
 Package hyperref Info: Hyper figures OFF on input line 4179.
 Package hyperref Info: Link nesting OFF on input line 4184.
 Package hyperref Info: Hyper index ON on input line 4187.
@@ -504,7 +493,7 @@ Package hyperref Info: Bookmarks ON on input line 4446.
 \c@Hy@tempcnt=\count426
 LaTeX Info: Redefining \url on input line 4784.
 \XeTeXLinkMargin=\dimen157
-(C:\Program Files\MiKTeX\tex/generic/bitset\bitset.sty
+ (C:\Program Files\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (C:\Program Files\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
@@ -516,7 +505,7 @@ Package hyperref Info: Hyper figures OFF on input line 6063.
 Package hyperref Info: Link nesting OFF on input line 6068.
 Package hyperref Info: Hyper index ON on input line 6071.
 Package hyperref Info: backreferencing OFF on input line 6078.
-Package hyperref Info: Link coloring OFF on input line 6083.
+Package hyperref Info: Link coloring ON on input line 6081.
 Package hyperref Info: Link coloring with OCG OFF on input line 6088.
 Package hyperref Info: PDF/A mode OFF on input line 6093.
  (C:\Program Files\MiKTeX\tex/latex/base\atbegshi-ltx.sty
@@ -549,12 +538,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
 \Hy@SectionHShift=\skip95
-)) (C:\Program Files\MiKTeX\tex/latex/bookmark\bookmark.sty
-Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
- (C:\Program Files\MiKTeX\tex/latex/bookmark\bkm-dvipdfm.def
-File: bkm-dvipdfm.def 2023-12-10 v1.31 bookmark driver for dvipdfm (HO)
-\BKM@id=\count435
-)) (config/styles.tex
+) (config/styles.tex
 
 Package fontspec Info: Font family 'Arial(0)' created for font 'Arial' with
 (fontspec)             options [Ligatures=TeX,Mapping=tex-text].
@@ -584,7 +568,10 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
- (main.aux)
+ (c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Fundamentos de gestión integral\Tarea 2\Documento en LaTeX\build\main.aux
+LaTeX Info: Redefining \. on input line 12.
+LaTeX Info: Redefining \% on input line 12.
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
@@ -727,28 +714,37 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (main.bbl)
+ (c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Fundamentos de gestión integral\Tarea 2\Documento en LaTeX\build\main.bbl)
 Package biblatex Info: Reference section=0 on input line 7.
 Package biblatex Info: Reference segment=0 on input line 7.
-Package hyperref Info: Link coloring OFF on input line 7.
+ (C:\Program Files\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+ (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: xetex.def on input line 149.
+ (C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx))
+Package hyperref Info: Link coloring ON on input line 7.
+ (c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Fundamentos de gestión integral\Tarea 2\Documento en LaTeX\build\main.out) (c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Fundamentos de gestión integral\Tarea 2\Documento en LaTeX\build\main.out)
+\@outlinefile=\write4
+\openout4 = `main.out'.
 
+ (content/front-page/frontPage.tex [1
 
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
-(content/front-page/frontPage.tex [1
-
-]) (content/activity1/activity1.tex)
-
-LaTeX Warning: Citation 'economia1' on page 1 undefined on input line 11.
-
-(content/bibliography/bibliography.tex
+]) (content/activity1/activity1.tex) (content/bibliography/bibliography.tex
 File: C:/Users/daeno/Documents/Trabajos de la UNAD/Tercer semestre/Fundamentos de gestión integral/Tarea 2/Documento en LaTeX/images//Encabezado.png Graphic file (type bmp)
 <C:/Users/daeno/Documents/Trabajos de la UNAD/Tercer semestre/Fundamentos de gestión integral/Tarea 2/Documento en LaTeX/images//Encabezado.png>
  [1]
-
-LaTeX Warning: Empty bibliography on input line 3.
-
-) (main.aux
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
+)
+File: C:/Users/daeno/Documents/Trabajos de la UNAD/Tercer semestre/Fundamentos de gestión integral/Tarea 2/Documento en LaTeX/images//Encabezado.png Graphic file (type bmp)
+<C:/Users/daeno/Documents/Trabajos de la UNAD/Tercer semestre/Fundamentos de gestión integral/Tarea 2/Documento en LaTeX/images//Encabezado.png>
+ [2] (c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Fundamentos de gestión integral\Tarea 2\Documento en LaTeX\build\main.aux
 LaTeX Info: Redefining \sptext on input line 12.
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
@@ -757,26 +753,19 @@ LaTeX Info: Redefining \% on input line 12.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: A980EAD41509BCDE680E5B9F432B0811;106.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21341 strings out of 409567
- 419918 string characters out of 5776475
- 1921842 words of memory out of 5000000
- 43272 multiletter control sequences out of 15000+600000
- 558549 words of font info for 52 fonts, out of 8000000 for 9000
+ 21274 strings out of 409567
+ 420423 string characters out of 5776475
+ 1922842 words of memory out of 5000000
+ 43185 multiletter control sequences out of 15000+600000
+ 561325 words of font info for 66 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,12n,110p,799b,4474s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,12n,110p,799b,4983s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (2 pages, 5600 bytes).
+Output written on c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Fundamentos de gestión integral\Tarea 2\Documento en LaTeX\build\main.xdv (3 pages, 10288 bytes).
