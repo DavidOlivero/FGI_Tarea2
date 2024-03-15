@@ -1,10 +1,18 @@
 # Fdb version 4
-["xdvipdfmx"] 1710517962.11685 "build/main.xdv" "build/main.pdf" "build/main" 1710517962.47107 0
-  "build/main.xdv" 1710517961 5560 fff84fb506105a4ec811ab825c07a0c5 "xelatex"
+["bibtex build/main"] 1710526488.20692 "build/main.aux" "build/main.bbl" "build/main" 1710526488.57668 2
+  "./content/bibliography/bibliography.bib" 1710522863 434 fbecae2952258b4bbb4697dd40636a4e ""
+  "C:/Program Files/MiKTeX/bibtex/bst/apacite/apacite.bst" 1374952728 146156 9d7b79dbf9d91133318126032cff8c27 ""
+  "build/main.aux" 1710526488 34 3985256e7290058c681f74d7a3565a19 "xelatex"
+  (generated)
+  "build/main.bbl"
+  "build/main.blg"
+  (rewritten before read)
+["xdvipdfmx"] 0 "build/main.xdv" "build/main.pdf" "build/main" 0 -1
+  "build/main.xdv" 0 -1 0 "xelatex"
   (generated)
   "build/main.pdf"
   (rewritten before read)
-["xelatex"] 1710517960.94461 "c:/Users/daeno/Documents/Trabajos de la UNAD/Tercer semestre/Fundamentos de gestión integral/Tarea 2/Documento en LaTeX/main.tex" "build/main.xdv" "main" 1710517962.46775 0
+["xelatex"] 1710526485.6225 "c:/Users/daeno/Documents/Trabajos de la UNAD/Tercer semestre/Fundamentos de gestión integral/Tarea 2/Documento en LaTeX/main.tex" "build/main.xdv" "main" 1710526487.62838 0
   "C:/Program Files/MiKTeX/tex/generic/babel/babel.sty" 1707324350 146276 10a40dabec03ce18494af0c3a51bcbdc ""
   "C:/Program Files/MiKTeX/tex/generic/babel/locale/es/babel-es.ini" 1707324351 4345 33a8cc6f0a7c6afcb84895b2c963a4e5 ""
   "C:/Program Files/MiKTeX/tex/generic/babel/locale/es/babel-spanish.tex" 1707324351 336 a1c472f674f6f0c25a2c95ad8c7ad024 ""
@@ -13,6 +21,8 @@
   "C:/Program Files/MiKTeX/tex/generic/iftex/iftex.sty" 1643997108 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
   "C:/Program Files/MiKTeX/tex/generic/iftex/ifvtex.sty" 1643997108 1057 525c2192b5febbd8c1f662c9468335bb ""
   "C:/Program Files/MiKTeX/tex/generic/iftex/ifxetex.sty" 1643997108 488 4565444a3e75e59cb2702dc42e18f482 ""
+  "C:/Program Files/MiKTeX/tex/latex/apacite/apacite.sty" 1374952728 74455 966b0b8d2be774cb1d3a7f97b253b725 ""
+  "C:/Program Files/MiKTeX/tex/latex/apacite/spanish.apc" 1374952728 9950 288c60a2b42c1bd3c1f1275917444092 ""
   "C:/Program Files/MiKTeX/tex/latex/arabi/bblopts.cfg" 1705750854 902 c30e5c373bc58bde21f8f63a3091626f ""
   "C:/Program Files/MiKTeX/tex/latex/babel-spanish/spanish.ldf" 1622279580 26965 3b6d1655ad716f98e788b1fb9f2e87b8 ""
   "C:/Program Files/MiKTeX/tex/latex/base/article.cls" 1705273579 20144 147463a6a579f4597269ef9565205cfe ""
@@ -41,15 +51,16 @@
   "C:/Program Files/MiKTeX/tex/latex/xltxtra/xltxtra.sty" 1546510394 5871 8a29af4ad9d707b5280738995d050842 ""
   "C:/Users/daeno/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1710466391 37547368 9bf9fbdbbba96bbd00f79e5940d2649f ""
   "C:/Users/daeno/Documents/Trabajos de la UNAD/Tercer semestre/Fundamentos de gestión integral/Tarea 2/Documento en LaTeX/images//Encabezado.png" 1710438255 79006 8020b0e883a77f4adebf821c84c6ba30 ""
-  "build/main.aux" 1710517961 194 05eaff20a35224c0a0d2a9aceff1100f "xelatex"
-  "c:/Users/daeno/Documents/Trabajos de la UNAD/Tercer semestre/Fundamentos de gestión integral/Tarea 2/Documento en LaTeX/main.tex" 1710516990 262 e6e2da10d0538b64fa154d26cc47089d ""
+  "build/main.aux" 1710526488 34 3985256e7290058c681f74d7a3565a19 "xelatex"
+  "build/main.bbl" 1710526488 0 d41d8cd98f00b204e9800998ecf8427e "bibtex build/main"
+  "c:/Users/daeno/Documents/Trabajos de la UNAD/Tercer semestre/Fundamentos de gestión integral/Tarea 2/Documento en LaTeX/main.tex" 1710526485 347 44d4fb0b1b66e01fd43d9a59e1a8ba86 ""
   "config/constants.tex" 1710462321 153 227bb297b66fe625063396129bd2b682 ""
   "config/header.tex" 1710513971 235 1734a93b0bff06b946ebbcd844c1f197 ""
-  "config/imports.tex" 1710517411 168 9302758aca165e4c175775cffccac9f5 ""
-  "config/styles.tex" 1710517960 219 6b3169f0bd2bb89adcb37794e3da0088 ""
-  "content/activity1/activity1.tex" 1710517932 345 4a0dc5357ffa7eda82e27afcf7db38ff ""
-  "content/front-page/frontPage.tex" 1710517597 536 fa0798d31422beff42254a5876743041 ""
-  "main.tex" 1710516990 262 e6e2da10d0538b64fa154d26cc47089d ""
+  "config/imports.tex" 1710526429 190 85b12dd54c847541c1e87920f1fa10a9 ""
+  "config/styles.tex" 1710525762 217 c8b40ac17c6979929ec6b856553ed464 ""
+  "content/activity1/activity1.tex" 1710522924 292 e5f6638c38a23dbf228d90e9f6a0ceba ""
+  "content/front-page/frontPage.tex" 1710522970 553 dd5843ad94a0e9e612a962685d79d801 ""
+  "main.tex" 1710526485 347 44d4fb0b1b66e01fd43d9a59e1a8ba86 ""
   (generated)
   "build/main.aux"
   "build/main.log"
