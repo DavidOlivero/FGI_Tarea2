@@ -1,18 +1,16 @@
 # Fdb version 4
-["biber build/main"] 1710543939.03857 "build/main.bcf" "build/main.bbl" "build/main" 1710544281.81125 0
-  "C:Users/daeno/Documents/Trabajos de la UNAD/Tercer semestre/Fundamentos de gestión integral/Tarea 2/Documento en LaTeX/content/bibliography/bibliography.bib" 0 -1 0 ""
-  "build/main.bcf" 1710544002 132962 39b1519a86a02fdb358c88dee6c72cac "xelatex"
-  "content/bibliography/bibliography.bib" 1710530006 440 5ca5508bec4ef4359dd7f736d7146c22 ""
+["bibtex main"] 1710596702.46486 "main.aux" "main.bbl" "main" 1710596702.72373 2
+  "main.aux" 1710596582 1099 098e6327265586756be42d132f3126d0 ""
   (generated)
-  "build/main.bbl"
-  "build/main.blg"
+  "main.bbl"
+  "main.blg"
   (rewritten before read)
-["xdvipdfmx"] 1710544281.3905 "build/main.xdv" "build/main.pdf" "build/main" 1710544281.81868 0
-  "build/main.xdv" 1710544280 10288 cafed669c8b9d43ef1419b8d6723de8a "xelatex"
+["xdvipdfmx"] 0 "build/main.xdv" "build/main.pdf" "build/main" 0 -1
+  "build/main.xdv" 1710596702 17704 602aaec5fff1ec75b6b673efec2e7dab "xelatex"
   (generated)
   "build/main.pdf"
   (rewritten before read)
-["xelatex"] 1710544278.61443 "c:/Users/daeno/Documents/Trabajos de la UNAD/Tercer semestre/Fundamentos de gestión integral/Tarea 2/Documento en LaTeX/main.tex" "build/main.xdv" "main" 1710544281.81173 0
+["xelatex"] 1710596699.889 "c:/Users/daeno/Documents/Trabajos de la UNAD/Tercer semestre/Fundamentos de gestión integral/Tarea 2/Documento en LaTeX/main.tex" "build/main.xdv" "main" 1710596702.724 0
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136790254 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmmi6.tfm" 1136765053 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -110,19 +108,20 @@
   "C:/Program Files/MiKTeX/tex/latex/xltxtra/xltxtra.sty" 1546510394 5871 8a29af4ad9d707b5280738995d050842 ""
   "C:/Users/daeno/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1710466391 37547368 9bf9fbdbbba96bbd00f79e5940d2649f ""
   "C:/Users/daeno/Documents/Trabajos de la UNAD/Tercer semestre/Fundamentos de gestión integral/Tarea 2/Documento en LaTeX/images//Encabezado.png" 1710438255 79006 8020b0e883a77f4adebf821c84c6ba30 ""
-  "build/main.aux" 1710544280 736 66a1b66d06cb828b12f7f29dd4e75d2c "xelatex"
-  "build/main.bbl" 1710543941 8023 36ffab6ae07d3756e0ab9e7c1026ae9e "biber build/main"
-  "build/main.out" 1710544280 106 a980ead41509bcde680e5b9f432b0811 "xelatex"
-  "build/main.run.xml" 1710544280 2537 f93e82b5df470670bad2012d58277615 "xelatex"
-  "c:/Users/daeno/Documents/Trabajos de la UNAD/Tercer semestre/Fundamentos de gestión integral/Tarea 2/Documento en LaTeX/main.tex" 1710544152 311 3e6b8097a56fa1d389c615fbedcd5734 ""
-  "config/constants.tex" 1710544057 340 47700e0156c96cb820c51acf2b35c1d5 ""
+  "bibliography/bibliography.tex" 1710531081 96 6fdf5100bd103bd5930543e77a57678e ""
+  "build/main.aux" 1710596702 1096 26f7c3ebe2b5402faf641f6951ffe847 "xelatex"
+  "build/main.out" 1710596702 106 a980ead41509bcde680e5b9f432b0811 "xelatex"
+  "c:/Users/daeno/Documents/Trabajos de la UNAD/Tercer semestre/Fundamentos de gestión integral/Tarea 2/Documento en LaTeX/main.tex" 1710595673 354 daa3ad1e5aa8f9f61de92a69428092ea ""
+  "config/constants.tex" 1710596540 335 6e33c4ce3cd09073d5053218084482c1 ""
   "config/header.tex" 1710513971 235 1734a93b0bff06b946ebbcd844c1f197 ""
-  "config/imports.tex" 1710544275 298 c67fec37e4c2b6dc3af6bb39b3d29b58 ""
-  "config/styles.tex" 1710544057 247 d7ebf6c8c1c61465b3fbf57109d4c1a0 ""
-  "content/activity1/activity1.tex" 1710544134 292 e5f6638c38a23dbf228d90e9f6a0ceba ""
-  "content/bibliography/bibliography.tex" 1710531081 96 6fdf5100bd103bd5930543e77a57678e ""
+  "config/imports.tex" 1710559264 298 c67fec37e4c2b6dc3af6bb39b3d29b58 ""
+  "config/styles.tex" 1710559264 247 d7ebf6c8c1c61465b3fbf57109d4c1a0 ""
+  "content/activity1/activity1.tex" 1710596572 754 2287899e2fdd8315b4debaae6ebf1e16 ""
   "content/front-page/frontPage.tex" 1710528410 536 fa0798d31422beff42254a5876743041 ""
-  "main.tex" 1710544152 311 3e6b8097a56fa1d389c615fbedcd5734 ""
+  "main.bbl" 1710596702 0 d41d8cd98f00b204e9800998ecf8427e "bibtex main"
+  "main.out" 1710596582 106 a980ead41509bcde680e5b9f432b0811 ""
+  "main.run.xml" 1710596582 2530 e5a9a59231d68bd8979a0b670e9d14b7 ""
+  "main.tex" 1710595673 354 daa3ad1e5aa8f9f61de92a69428092ea ""
   (generated)
   "build/main.aux"
   "build/main.bcf"

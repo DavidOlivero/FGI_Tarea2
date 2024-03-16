@@ -19,7 +19,7 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global}
-    \entry{economia1}{book}{}
+    \entry{pereira2001}{book}{}
       \name{author}{9}{}{%
         {{un=0,uniquepart=base,hash=ca5dc8dce0e64f86d64a56e59d4e041f}{%
            family={Pereira},
@@ -113,7 +113,7 @@
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
-    \entry{economia1}{book}{}
+    \entry{pereira2001}{book}{}
       \name{author}{9}{}{%
         {{un=0,uniquepart=base,hash=ca5dc8dce0e64f86d64a56e59d4e041f}{%
            family={Pereira},

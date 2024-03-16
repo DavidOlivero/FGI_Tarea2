@@ -208,11 +208,11 @@ INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
 INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
 INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
 OUTPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Fundamentos de gestión integral\Tarea 2\Documento en LaTeX\build\main.bcf
-INPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Fundamentos de gestión integral\Tarea 2\Documento en LaTeX\build\main.bbl
-INPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Fundamentos de gestión integral\Tarea 2\Documento en LaTeX\build\main.bbl
-INPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Fundamentos de gestión integral\Tarea 2\Documento en LaTeX\build\main.bbl
-INPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Fundamentos de gestión integral\Tarea 2\Documento en LaTeX\build\main.bbl
-INPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Fundamentos de gestión integral\Tarea 2\Documento en LaTeX\build\main.bbl
+INPUT main.bbl
+INPUT .\main.bbl
+INPUT .\main.bbl
+INPUT .\main.bbl
+INPUT main.bbl
 INPUT C:\Program Files\MiKTeX\tex\latex\graphics\color.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\graphics\color.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
@@ -221,12 +221,12 @@ INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
 INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
 INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
 INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
-INPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Fundamentos de gestión integral\Tarea 2\Documento en LaTeX\build\main.out
-INPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Fundamentos de gestión integral\Tarea 2\Documento en LaTeX\build\main.out
-INPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Fundamentos de gestión integral\Tarea 2\Documento en LaTeX\build\main.out
-INPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Fundamentos de gestión integral\Tarea 2\Documento en LaTeX\build\main.out
-INPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Fundamentos de gestión integral\Tarea 2\Documento en LaTeX\build\main.out
-INPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Fundamentos de gestión integral\Tarea 2\Documento en LaTeX\build\main.out
+INPUT .\main.out
+INPUT .\main.out
+INPUT main.out
+INPUT main.out
+INPUT .\main.out
+INPUT .\main.out
 OUTPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Fundamentos de gestión integral\Tarea 2\Documento en LaTeX\build\main.out
 INPUT .\content\front-page\frontPage.tex
 INPUT .\content\front-page\frontPage.tex
@@ -235,9 +235,9 @@ OUTPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Fundamentos 
 INPUT .\content\activity1\activity1.tex
 INPUT .\content\activity1\activity1.tex
 INPUT content\activity1\activity1.tex
-INPUT .\content\bibliography\bibliography.tex
-INPUT .\content\bibliography\bibliography.tex
-INPUT content\bibliography\bibliography.tex
+INPUT .\bibliography\bibliography.tex
+INPUT .\bibliography\bibliography.tex
+INPUT bibliography\bibliography.tex
 INPUT C:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Fundamentos de gestión integral\Tarea 2\Documento en LaTeX\images\\Encabezado.png
 INPUT C:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Fundamentos de gestión integral\Tarea 2\Documento en LaTeX\images\\Encabezado.png
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
@@ -254,5 +254,5 @@ INPUT C:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Fundamentos d
 INPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Fundamentos de gestión integral\Tarea 2\Documento en LaTeX\build\main.aux
 INPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Fundamentos de gestión integral\Tarea 2\Documento en LaTeX\build\main.out
 INPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Fundamentos de gestión integral\Tarea 2\Documento en LaTeX\build\main.out
-INPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Fundamentos de gestión integral\Tarea 2\Documento en LaTeX\build\main.run.xml
+INPUT main.run.xml
 OUTPUT c:\Users\daeno\Documents\Trabajos de la UNAD\Tercer semestre\Fundamentos de gestión integral\Tarea 2\Documento en LaTeX\build\main.run.xml
